@@ -4,8 +4,13 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log ("'Hello World! Tis I Joshua Hunter the super coder");
+console.log (3+3);
+console.log ("I love coding it is fun and rewarding");
+console.log ("everybody get together try to love one another");
+console.log ("hello jello , will this work?");
+console.log ("everybody get \"together\" try to love one another");
+console.log ("everybody get \together \try to love one another");
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
